@@ -1,8 +1,9 @@
 # Case Study
-Rahul Gupta
-Kushal Nishad
-Jay Patel
-Harshit Morwal.
+**Team Members:**
+- Rahul Gupta
+- Kushal Nishad
+- Jay Patel
+- Harshit Morwal
 
 # Teckypedia
 
